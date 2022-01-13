@@ -1,1 +1,1 @@
-# PIPP
+# privacy_policy
