@@ -1,1 +1,1 @@
-# privacy_policy
+# privacy_policy_no_collect
